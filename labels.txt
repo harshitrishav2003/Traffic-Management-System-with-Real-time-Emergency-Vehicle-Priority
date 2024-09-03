@@ -1,0 +1,4 @@
+empty road
+Normal Traffic
+Heavy Traffic
+emergency vehicle 
